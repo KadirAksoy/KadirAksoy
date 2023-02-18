@@ -40,8 +40,8 @@ Hi 👋, I'm Kadir Baran Aksoy
 <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.javascript.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
 
-</p>
-
+<>
+/br
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KadirAksoy&show_icons=true&theme=radical)
 </br>
