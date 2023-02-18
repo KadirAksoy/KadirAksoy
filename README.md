@@ -20,10 +20,10 @@ Hi 👋, I'm Kadir Baran Aksoy
 
 ### Connect with me:
 
-<p style="letter-spacing:5px">
-<a href ="https://twitter.com/kadirr_aksoy" ><img height ="30" width="30" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg /></a> 
-<a href ="https://www.linkedin.com/in/kadir-aksoy-64a21a248/"><img height ="30" width="30" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg /></a>
-<a href ="https://www.instagram.com/aksy.kadir/"><img height ="30" width="30" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg /></a>
+<p style="letter-spacing:10px">
+<a href ="https://twitter.com/kadirr_aksoy" ><img height ="30" width="32" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg /></a> 
+<a href ="https://www.linkedin.com/in/kadir-aksoy-64a21a248/"><img height ="30" width="32" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg /></a>
+<a href ="https://www.instagram.com/aksy.kadir/"><img height ="30" width="32" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg /></a>
 </p>
 
 
@@ -34,7 +34,7 @@ Hi 👋, I'm Kadir Baran Aksoy
 
 ### Languages and Tools:
 
-<p style="letter-spacing:3px">
+<p style="letter-spacing:5px">
 <a href="https://www.java.com/tr/" rel="nofollow"> <img src=https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
