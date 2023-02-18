@@ -1,4 +1,7 @@
 
+
+
+
 <h1 align = "center" font = "">
 <strong>
 <font color ="black">
@@ -23,3 +26,23 @@ Hi 👋, I'm Kadir Baran Aksoy
 <a href ="https://www.instagram.com/aksy.kadir/"><img height ="30" width="30" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg /></a>
 </p>
 
+
+
+
+
+<br>
+
+### Languages and Tools:
+
+<p style="letter-spacing:3px">
+<a href="https://www.java.com/tr/" rel="nofollow"> <img src=https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.javascript.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
+
+</p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KadirAksoy&show_icons=true&theme=radical)
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KadirAksoy&layout=compact)
