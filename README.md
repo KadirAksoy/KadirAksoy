@@ -13,7 +13,7 @@ Hi 👋, I'm Kadir Baran Aksoy
 
 
 - I’m currently studying on Trakya University Computer Engineering
-- I’m currently working on Java and Python 
+- I’m working on Java and Python 
 
 
 <br>
