@@ -46,7 +46,7 @@ Hi 👋, I'm Kadir Baran Aksoy
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KadirAksoy&layout=compact)
+
 
 </br>
 </br>
