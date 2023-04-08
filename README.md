@@ -46,7 +46,7 @@ Hi 👋, I'm Kadir Baran Aksoy
 
 </br>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KadirAksoy&layout=compact)
 
 </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KadirAksoy&show_icons=true&theme=radical)
