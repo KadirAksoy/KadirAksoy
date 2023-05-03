@@ -13,7 +13,9 @@ Hi 👋, I'm Kadir Baran Aksoy
 
 
 - I’m currently studying on Trakya University Computer Engineering
-- I’m working on Java and Python 
+- I’m working on Java Spring Boot , C# .Net Core and Javascript
+- I'm interested in Data Science and i'm using Python
+
 
 
 <br>
