@@ -96,7 +96,6 @@ Hi 👋, I'm Kadir Baran Aksoy
           height="40"
         />
       </a>
-
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
