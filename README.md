@@ -12,9 +12,7 @@ Hi 👋, I'm Kadir Baran Aksoy
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" align="right"  witdh ="400" height="250">
 
 
-- I’m currently studying on Trakya University Computer Engineering
-- I’m working on Java Spring Boot , Javascript, React and NodeJs
-- I'm interested in Mobile Development 
+Bilgisayar mühendisiyim ve yazılım geliştirme dünyasında kendimi geliştiriyorum. Java, React, Spring Boot gibi teknolojilerle çalışıyor ve sürekli olarak bu alandaki bilgilerimi güncelliyorum. Ayrıca, Kafka, Elasticsearch, Redis, RabbitMQ gibi araçları öğrenerek yeteneklerimi genişletmekteyim. Backend ve Fullstack alanlarında kendimi geliştirirken, aynı zamanda Agile ve Scrum gibi metodolojilerle de ilgileniyorum ve GitHub gibi platformlarda aktif olarak yer alıyorum. İletişim becerilerimi ve ekip çalışması yeteneklerimi geliştirmeye odaklanıyor, sürekli olarak öğrenmeye ve yeni şeyler denemeye çalışıyorum. 
 
 
 
