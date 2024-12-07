@@ -70,7 +70,7 @@ Bilgisayar mühendisiyim ve yazılım geliştirme dünyasında kendimi geliştir
           height="40"
         />
       </a>
-      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+      <a href="https://react.dev" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
           alt="react"
